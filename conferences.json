@@ -61,5 +61,14 @@
     "conferenceDate": "October 24-29, 2026",
     "abstractDeadline": "2026-05-20T23:59:59-12:00",
     "fullPaperDeadline": null
+  },
+  {
+    "name": "ICLR 2027",
+    "url": "https://iclr.cc/Conferences/2027",
+    "category": "ml",
+    "location": "TBD",
+    "conferenceDate": "April 2027 (estimated)",
+    "abstractDeadline": "2026-09-17T23:59:59-12:00",
+    "fullPaperDeadline": "2026-09-22T23:59:59-12:00"
   }
 ]
